@@ -63,4 +63,4 @@ This module is licensed under the Apache 2.0 license. See the LICENSE file for m
 
 ## Authors
 
-This module was created by John Doe and Jane Smith.
+This module was created by Julio Zanette and ChatGPT May 3 Version
